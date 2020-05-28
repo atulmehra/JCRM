@@ -1,0 +1,3 @@
+[submodule "nirman-react-building-blocks"]
+	path = nirman-react-building-blocks
+	url = https://github.com/atulmehra/nirman-react-building-blocks.git
